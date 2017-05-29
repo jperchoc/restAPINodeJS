@@ -20,7 +20,7 @@ Todo model :
 ```json
 {
   "Id":      0,             
-  "Title":    "Todo",       
+  "Title":   "Todo",       
   "Summary": "My summary",  
   "Status":  "todo"         
 }
