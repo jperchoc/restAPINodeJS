@@ -17,7 +17,7 @@ Todo model :
 - Summary : string >=5 <=200
 - Status  : string in ["todo", "done"]
 
-```json
+```javascript
 var task = {
   "Id":      0,             
   "Title":   "Todo",       
