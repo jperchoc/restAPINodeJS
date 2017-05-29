@@ -4,11 +4,11 @@ Todo's REST API
 - mocked (default)
 - mysql
 
-GET     /tasks
-GET     /tasks/id
-POST    /tasks
-PUT     /tasks/id
-DELETE  /tasks/id
+* GET     /tasks
+* GET     /tasks/id
+* POST    /tasks
+* PUT     /tasks/id
+* DELETE  /tasks/id
 
 Todo model :
 
