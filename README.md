@@ -4,6 +4,7 @@ Todo's REST API
 - mocked (default)
 - mysql
 
+Routes : 
 * GET     /tasks
 * GET     /tasks/id
 * POST    /tasks
@@ -11,7 +12,6 @@ Todo's REST API
 * DELETE  /tasks/id
 
 Todo model :
-
 - Id      : number >= 0, auto-incremented
 - Title   : string >=3 <=20
 - Summary : string >=5 <=200
