@@ -18,7 +18,7 @@ Todo model :
 - Status  : string in ["todo", "done"]
 
 ```json
-{
+var task = {
   "Id":      0,             
   "Title":   "Todo",       
   "Summary": "My summary",  
